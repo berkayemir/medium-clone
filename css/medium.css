@@ -1,0 +1,19 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-bottom-dark{
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.position-fixed{
+    position: fixed;
+    z-index: 1;
+    display: inline-block;
+}
+
+body{
+    font-family: 'PT Serif', serif;
+}
+.aside-buttons >li{
+    margin-bottom: 10px;
+}
